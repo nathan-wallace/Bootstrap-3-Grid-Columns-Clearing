@@ -1,4 +1,4 @@
-#Bootstrap 3 Grid Columns Clearing
+#Angularjs Bootstrap 3 Grid Columns Clearing Directive
 
 By adding the `js/ie-row-fix.js` file and either the `css/multi-columns-row.css` or compiling the `less/multi-columns-row.less` file with Bootstrap 3 you can add
 support for clearing columns in a row.
